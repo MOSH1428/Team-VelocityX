@@ -1,0 +1,18 @@
+{
+  "members": [
+    {
+      "id": "1",
+      "idNumber": "0000",
+      "name": "Admin User",
+      "email": "admin@velocity.com",
+      "password": "$2b$10$qUsZNe5.S8udVqCCtHyuce09TIbKTDc1Z5DZpGlKVcCqBOWNMuFUa",
+      "role": "Lead",
+      "department": "Tech",
+      "isAdmin": true
+    }
+  ],
+  "projects": [],
+  "tasks": [],
+  "media": [],
+  "prContacts": []
+}
