@@ -1,4 +1,5 @@
-import { Mail, MapPin, Phone, Instagram, Send, Sparkles } from 'lucide-react';
+import { Mail, MapPin, Phone, Send, Sparkles } from 'lucide-react';
+import { Instagram } from './Icons';
 
 export default function ContactSection() {
   return (

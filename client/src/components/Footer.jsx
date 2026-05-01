@@ -1,4 +1,5 @@
-import { Terminal, Heart, Instagram } from 'lucide-react';
+import { Terminal, Heart } from 'lucide-react';
+import { Instagram } from './Icons';
 
 export default function Footer() {
   return (
